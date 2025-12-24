@@ -107,11 +107,11 @@
             </a>
           </div>
 
-          <!-- Image shown only on mobile, after text -->
+          <!-- Image shown only on mobile, after text --> 
           <div class="flex justify-center md:hidden mt-6 mb-8">
             <img
-              src="/jyotsna-image.jpg"
-              alt="Jyotsna"
+              src="/chris-image_3.jpg"
+              alt="Christopher"
               class="w-64 h-64 object-cover rounded-[5%] shadow-lg"
             />
           </div>

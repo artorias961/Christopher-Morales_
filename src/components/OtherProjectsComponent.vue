@@ -169,7 +169,7 @@
             class="col-span-1 md:col-span-1 md:row-span-2 relative rounded-md overflow-hidden group"
           >
             <img
-              src="/Multiserver.png"
+              src="/3D_Medical_Reconstruction_project.png"
               class="w-full h-full object-cover"
               alt="Multiserver Project"
             />
@@ -179,14 +179,14 @@
               <div
                 class="opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-white p-6"
               >
-                <h3 class="text-2xl font-bold mb-2">Multi-thread Web Server</h3>
+                <h3 class="text-2xl font-bold mb-2">3D Geometry Recontruction</h3>
                 <p class="mb-4">
-                  A Python-powered HTTP server that handles multiple clients like a pro! Built from
-                  scratch to manage requests, serve files, and keep those connections alive
+                  My senior design project used numerical and computer vision tools to analyze pelvic MRI scans and 
+                  construct 3D models of the bladder, vagina, and rectum. 
                 </p>
                 <div class="flex space-x-3">
                   <a
-                    href="https://github.com/jyotsna-venkatesan/Multi-thread-Web-Server"
+                    href="https://github.com/artorias961/3D-Geometry-Recontruction-of-Medical-Image.git"
                     class="px-4 py-2 bg-blue-600 rounded-md hover:bg-blue-700 transition-colors"
                     >GitHub</a
                   >
@@ -198,29 +198,31 @@
 
         <!-- Third Row -->
         <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-          <!-- Additional projects - equal size -->
+
+
+          <!-- Portfolio One -->
           <div class="col-span-1 relative rounded-md overflow-hidden group">
-            <img src="/coderoad.png" class="w-full h-full object-cover" alt="CodeRoad Project" />
+            <img src="/portfolio_one.png" class="w-full h-full object-cover" alt="CodeRoad Project" />
             <div
               class="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-70 transition-all duration-300 flex items-center justify-center"
             >
               <div
                 class="opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-white p-6"
               >
-                <h3 class="text-xl font-bold mb-2">CodeRoad</h3>
+                <h3 class="text-xl font-bold mb-2">My First Portfolio</h3>
                 <p class="mb-4">
-                  An AI-powered project roadmap generator that helps developers ideate and transform
-                  their ideas into structured, actionable project plans. Currently, doesn't work
-                  because of API key rate limiting :(
+                  This is my first portfolio, built using HTML, CSS, JavaScript, and SCSS. I’m proud of 
+                  this projectit took approximately 1.6 years to complete and marked the beginning of my 
+                  web development journey. 
                 </p>
                 <div class="flex space-x-3">
                   <a
-                    href="https://github.com/jyotsna-venkatesan/Code-Road"
+                    href="https://github.com/artorias961/artorias961.github.io"
                     class="px-3 py-1 bg-blue-600 rounded-md hover:bg-blue-700 transition-colors text-sm"
                     >GitHub</a
                   >
                   <a
-                    href="https://coderoad-ai.netlify.app/"
+                    href="https://artorias961.github.io"
                     class="px-3 py-1 bg-gray-600 rounded-md hover:bg-gray-700 transition-colors text-sm"
                     >Website</a
                   >
@@ -229,11 +231,13 @@
             </div>
           </div>
 
+
+          <!-- Portfolio Two -->
           <div class="col-span-1 relative rounded-md overflow-hidden group">
             <img
-              src="/database-chatbot.png"
+              src="/portfolio_two.png"
               class="w-full h-full object-cover"
-              alt="Database Chatbot Project"
+              alt="Portfolio"
             />
             <div
               class="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-70 transition-all duration-300 flex items-center justify-center"
@@ -241,31 +245,37 @@
               <div
                 class="opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-white p-6"
               >
-                <h3 class="text-xl font-bold mb-2">Odoo Database Chatbot</h3>
+                <h3 class="text-xl font-bold mb-2">My Second Portfolio</h3>
                 <p class="mb-4">
-                  An extension that allows users to retrieve data from Odoo databases using a
-                  chat-like interface.
+                  This is my second portfolio using React and Vercel!
                 </p>
                 <div class="flex space-x-3">
                   <a
-                    href="https://github.com/jyotsna-venkatesan/database-chatbot"
+                    href="https://github.com/artorias961/portfolio"
                     class="px-3 py-1 bg-blue-600 rounded-md hover:bg-blue-700 transition-colors text-sm"
                     >GitHub</a
+                  >
+                  <a
+                    href="https://christopher-morales.vercel.app/"
+                    class="px-3 py-1 bg-gray-600 rounded-md hover:bg-gray-700 transition-colors text-sm"
+                    >Website</a
                   >
                 </div>
               </div>
             </div>
           </div>
+          
 
+          <!-- Portfolio Finale -->
           <div class="col-span-1 relative rounded-md overflow-hidden group">
-            <img src="/portfolio.png" class="w-full h-full object-cover" alt="Decodr Project" />
+            <img src="/portfolio_finale.png" class="w-full h-full object-cover" alt="Decodr Project" />
             <div
               class="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-70 transition-all duration-300 flex items-center justify-center"
             >
               <div
                 class="opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-white p-6"
               >
-                <h3 class="text-xl font-bold mb-2">Jyotsna's Portfolio</h3>
+                <h3 class="text-xl font-bold mb-2">Christopher's Portfolio</h3>
                 <p class="mb-4">My portfolio website! The page you are currently on :)</p>
                 <div class="flex space-x-3">
                   <a

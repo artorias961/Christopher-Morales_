@@ -103,7 +103,7 @@
       </div>
 
       <img
-        src="/bg-image.png"
+        src="/bg_image_christopher.png"
         alt="Hero background"
         class="w-full h-auto object-contain sm:object-cover object-top z-0 mb-0"
         style="pointer-events: none"
