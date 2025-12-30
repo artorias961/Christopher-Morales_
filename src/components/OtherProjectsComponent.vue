@@ -82,27 +82,21 @@
 
           <!-- Right bottom box -->
           <div class="col-span-1 relative rounded-md overflow-hidden group">
-            <img src="/prequel.png" class="w-full h-full object-cover" alt="Prequel Project" />
+            <img src="/dqn_snake_model.png" class="w-full h-full object-cover" alt="Prequel Project" />
             <div
               class="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-70 transition-all duration-300 flex items-center justify-center"
             >
               <div
                 class="opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-white p-6"
               >
-                <h3 class="text-xl font-bold mb-2">Prequel</h3>
+                <h3 class="text-xl font-bold mb-2">Deep Neural Network SnakeIO Game</h3>
                 <p class="mb-4">
-                  The landing page for a competitor for Preface made with Vue and TailwindCSS!
-                </p>
+                My DQN Snake agent! A Neural Networks course final where I trained a model to play Snake using Python                </p>
                 <div class="flex space-x-3">
                   <a
                     href="https://github.com/jyotsna-venkatesan/prequel"
                     class="px-3 py-1 bg-blue-600 rounded-md hover:bg-blue-700 transition-colors text-sm"
                     >GitHub</a
-                  >
-                  <a
-                    href="https://meek-tartufo-681bf5.netlify.app/"
-                    class="px-3 py-1 bg-gray-600 rounded-md hover:bg-gray-700 transition-colors text-sm"
-                    >Check it out!</a
                   >
                 </div>
               </div>
