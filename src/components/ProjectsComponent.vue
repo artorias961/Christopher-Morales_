@@ -90,20 +90,25 @@
       >
         <div class="project-content">
           <div class="project-image">
-            <img src="/yuvoa.png" alt="AI-Powered Social Media Analytics Dashboard" />
+            <img src="/escalation.png" alt="AI-Powered Social Media Analytics Dashboard" />
           </div>
           <div class="project-info">
-            <h2 class="project-title">Yuvoa</h2>
+            <h2 class="project-title">Escalation</h2>
             <p class="project-description">
-              A collaborative space for student teams to manage projects, share progress, and
-              actually enjoy working together.
+              Escalation is a long term personal project I’ve been conceptualizing for some time. 
+              It draws inspiration from Watch Dogs, Battlefield 2042, and the research foundations 
+              of my thesis. The goal is to explore and integrate multiple communication technologies 
+              BLE, Wi-Fi, LoRa, and satellite links within a single overarching system.
             </p>
             <div class="tech-stack">
-              <span>Svelte</span>
-              <span>Gleam</span>
+              <span>C</span>
+              <span>C++</span>
+              <span>Docker</span>
+              <span>ZephyrRTOS</span>
+              <span>Python</span>
             </div>
             <div class="project-links">
-              <a href="https://github.com/jyotsna-venkatesan/yuvoa" class="project-link"
+              <a href="https://github.com/artorias961/Escalation" class="project-link"
                 >Go to GitHub →</a
               >
             </div>
@@ -121,28 +126,37 @@
       >
         <div class="project-content">
           <div class="project-info">
-            <h2 class="project-title">Orbityr</h2>
+            <h2 class="project-title">Home Lab</h2>
             <p class="project-description">
-              A location intelligence system that tells you exactly where to place anything -
-              whether it’s a retail store, an EV charger, or a defense asset. Powered by the AI
-              analysis of Satellite Data, Foot traffic patterns, Demographics, and Infrastructure
-              Data. A Microfund Shortlisted Idea.
+              This project represents a long-standing personal goal to design and deploy 
+              a home lab and smart home environment that meaningfully supports my aging 
+              parents. After several years without the financial means to pursue this work, 
+              stable employment has enabled me to begin saving and planning a system that 
+              leverages my technical background to address practical, real-world needs. As my 
+              parents grow older and experience increasing forgetfulness, this platform is 
+              intended to provide unobtrusive assistance through automation and monitoring, 
+              such as door and environmental sensors implemented using ESP-based devices and 
+              integrated through Home Assistant. Prior to deployment, the focus is placed on 
+              careful research, system design, and phased procurement to ensure reliability, 
+              security, and long-term maintainability.
             </p>
             <div class="tech-stack">
-              <span>Svelte</span>
-              <span>MCP</span>
-              <span>OpenAI</span>
-              <span>Uber H3</span>
+              <span>Home Assistant</span>
+              <span>Docker</span>
+              <span>Virtualization</span>
+              <span>ESP32</span>
+              <span>Raspberry Pi</span>
+              <span>pfSense</span>
             </div>
             <div class="project-links">
-              <a href="https://github.com/jyotsna-venkatesan/vexos" class="project-link"
+              <a href="https://github.com/artorias961/Home-Lab" class="project-link"
                 >Go to GitHub →</a
               >
-              <a href="https://www.vexos.space/" class="project-link">Check it out →</a>
+              <!-- <a href="https://www.vexos.space/" class="project-link">Check it out →</a>   -->
             </div>
           </div>
           <div class="project-image">
-            <img src="/vexos.png" alt="E-Commerce Marketplace Platform" />
+            <img src="/homelab.png" alt="Home Labbing" />
           </div>
         </div>
       </div>
@@ -157,31 +171,27 @@
       >
         <div class="project-content">
           <div class="project-image">
-            <img src="/sporkify.png" alt="Smart Task Management Mobile App" />
+            <img src="/sobel_1.png" alt="Computer Vision Multi Threading Sobel Filter" />
           </div>
           <div class="project-info">
-            <h2 class="project-title">Sporkify</h2>
+            <h2 class="project-title">Computer Vision Multi Threading Sobel Filter</h2>
             <p class="project-description">
-              A recipe platform that brings the familiar playlist experience to cooking - discover,
-              collect, and share recipes based on your mood, ingredients, and cooking vibe!
+             This project demonstrates a complete workflow using C++, CMake, and OpenCV for both images and videos. 
+             It covers device recognition, frame capture, grayscale conversion, edge detection, and a multi-threaded 
+             Sobel filter implementation to improve performance.
             </p>
             <div class="tech-stack">
-              <span>Vue.js</span>
-              <span>Tailwind CSS</span>
-              <span>Node.js</span>
-              <span>Express.js</span>
-              <span>Better-SQLite3</span>
-              <span>Multer</span>
-              <span>Bcrypt</span>
-              <span>CORS</span>
+              <span>C++</span>
+              <span>CMake</span>
+              <span>OpenCV</span>
+              <span>Windows Threading</span>
+              <span>Batch</span>
             </div>
             <div class="project-links">
-              <a href="https://github.com/jyotsna-venkatesan/sporkify" class="project-link"
+              <a href="https://github.com/artorias961/Computer-Vision-Multi-Threading-Sobel-Filter" class="project-link"
                 >Go to GitHub →</a
               >
-              <a href="https://web-production-6c51.up.railway.app/" class="project-link"
-                >Check it out →</a
-              >
+             
             </div>
           </div>
         </div>
@@ -197,27 +207,37 @@
       >
         <div class="project-content">
           <div class="project-info">
-            <h2 class="project-title">Zzafari</h2>
+            <h2 class="project-title">Localization and Tracking in ZigBee Bluetooth Mesh Networks</h2>
             <p class="project-description">
-              A cozy sleep tracker mobile app that rewards your sleep with animal companions in a
-              growing virtual world.
+              This repository contains the research code, experiments, and prototypes developed for my 
+              Master’s thesis in Electrical Engineering. The goal of this work is to investigate whether 
+              human occupancy can be inferred from RF signal behavior, specifically RSSI and link metrics 
+              collected from low-power IEEE 802.15.4 based wireless networks such as Zigbee and Thread. The 
+              conceptual inspiration for this work was influenced by the Watch Dogs video game series, 
+              which portrays a highly interconnected urban environment where digital infrastructure and 
+              wireless networks can be observed and interacted with in real time.
+
+
             </p>
             <div class="tech-stack">
-              <span>SwiftUI</span>
-              <span>Swift</span>
-              <span>Xcode</span>
+              <span>C</span>
+              <span>C++</span>
+              <span>Python</span>
+              <span>ZigBee</span>
+              <span>ZephyrRTOS</span>
             </div>
             <div class="project-links">
-              <a href="https://github.com/jyotsna-venkatesan/Zzzafari" class="project-link"
+              <a href="https://github.com/artorias961/Localization-and-Tracking-in-ZigBee-Bluetooth-Mesh-Networks" class="project-link"
                 >Go to GitHub →</a
               >
             </div>
           </div>
           <div class="project-image">
-            <img src="/zzafari.png" alt="Zzafari" class="zzafari-image" />
+            <img src="/watch_dogs.png" alt="Localization and Tracking in ZigBee Bluetooth Mesh Networks" class="zzafari-image" />
           </div>
         </div>
       </div>
+
 
       <!-- Project 5 -->
       <div
@@ -229,26 +249,35 @@
       >
         <div class="project-content">
           <div class="project-image">
-            <img src="/blend.png" alt="Blockchain-Based Supply Chain Tracking" />
+            <img src="/speech_to_text.png" alt="Signal Processing Speech Detection to Text" />
           </div>
           <div class="project-info">
-            <h2 class="project-title">Blend</h2>
+            <h2 class="project-title">Signal Processing Speech Detection to Text</h2>
             <p class="project-description">
-              Blend is an interactive project designed to educate users about the rich history and
-              cultural significance of coffee. Through a hands-on, step-by-step coffee-making
-              experience, users not only learn how to brew their perfect cup but also discover the
-              fascinating stories behind one of the world's most beloved beverages.
+              Speech Detection to Text is a MATLAB based project designed to demonstrate how 
+              classical digital signal processing techniques can be applied to speech analysis 
+              and phoneme recognition within a biomedical signal processing framework. Through 
+              a structured processing pipeline, recorded speech is conditioned, segmented, and 
+              analyzed using time frequency methods such as the Short-Time Fourier Transform to 
+              generate spectrogram based representations. The project guides speech signals through 
+              phoneme modeling using template matching, where labeled training samples form a 
+              phoneme bank used for sliding-window similarity and correlation analysis. Rather 
+              than relying on machine learning, the system emphasizes deterministic signal 
+              processing concepts including filtering, spectral analysis, and pattern matching to 
+              produce a sequential phoneme-based text output, serving as both an educational 
+              exploration of speech as a biosignal and a functional proof of concept for classical 
+              speech-to-text transcription.
             </p>
             <div class="tech-stack">
-              <span>SvelteKit</span>
-              <span>TailwindCSS</span>
-              <span>Custom Audio</span>
+              <span>Matlab</span>
+              <span>C</span>
+              
             </div>
             <div class="project-links">
-              <a href="https://github.com/jyotsna-venkatesan/blend" class="project-link"
+              <a href="https://github.com/artorias961/Biomedical-Signal-Processing-Speech-Detection-to-Text" class="project-link"
                 >Go to GitHub →</a
               >
-              <a href="https://blend-coffee.netlify.app/" class="project-link">Check it out →</a>
+              <!--<a href="PUT_LINK_HERE" class="project-link">Check it out →</a>-->
             </div>
           </div>
         </div>

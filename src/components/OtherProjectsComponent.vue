@@ -110,20 +110,20 @@
         <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-4">
           <!-- Left top box -->
           <div class="col-span-1 relative rounded-md overflow-hidden group">
-            <img src="/sobel_1.png" class="w-full h-full object-cover" alt="Sobel Project" />
+            <img src="/mechanical_keyboard.png" class="w-full h-full object-cover" alt="Mechanical Keyboards" />
             <div
               class="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-70 transition-all duration-300 flex items-center justify-center"
             >
               <div
                 class="opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-white p-6"
               >
-                <h3 class="text-xl font-bold mb-2">Computer Vision Multi Threading Sobel Filter</h3>
+                <h3 class="text-xl font-bold mb-2">Mechanical Keyboards</h3>
                 <p class="mb-4">
-                  This is a C++/OpenCV computer vision project that demonstrates an image and video processing pipeline culminating in a multi-threaded Sobel edge detection
+                      This repository contains the design and development of custom mechanical keyboard PCBs using ESP32 and ATMEGA32A-P
                 </p>
                 <div class="flex space-x-3">
                   <a
-                    href="https://github.com/artorias961/Computer-Vision-Mutli-Threading-Sobel-Filter"
+                    href="https://github.com/artorias961/Mechanical-Keyboards"
                     class="px-3 py-1 bg-blue-600 rounded-md hover:bg-blue-700 transition-colors text-sm"
                     >GitHub</a
                   >
